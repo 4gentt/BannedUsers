@@ -1,3 +1,3 @@
-return {
-    [9255186426] = {Reason = "yes", Duration = "Permanent"},
+{
+    "9255186426": { "Reason": "Spamming Report Bug", "Duration": "Permanent" }
 }
